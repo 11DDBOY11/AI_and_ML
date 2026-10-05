@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/Finetune/results/
+/Finetune/my_finetuned_sentiment_model/
